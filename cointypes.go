@@ -445,6 +445,7 @@ const (
 	BITCOIN_ROYALE           = uint32(440)
 	PHORE                    = uint32(444)
 	DINERO                   = uint32(447)
+	FILECOIN                 = uint32(461)
 	ETHERINC                 = uint32(464)
 	AMOVEO                   = uint32(488)
 	THETA                    = uint32(500)
