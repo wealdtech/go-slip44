@@ -450,6 +450,7 @@ const (
 	AMOVEO                   = uint32(488)
 	THETA                    = uint32(500)
 	SOLANA                   = uint32(501)
+	ELROND                   = uint32(508)
 	KOTO                     = uint32(510)
 	RADIANT                  = uint32(512)
 	VIRTUAL_ECONOMY_ERA      = uint32(516)
